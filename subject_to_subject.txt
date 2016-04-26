@@ -1,0 +1,251 @@
+﻿id1	label1	count	amount	id2	label2
+SM	Agriculture, fishing and forestry	6	68250	SA	Arts and culture
+SM	Agriculture, fishing and forestry	27	737430	SN	Community and economic development
+SM	Agriculture, fishing and forestry	23	420045	SB	Education
+SM	Agriculture, fishing and forestry	34	1568135	SC	Environment
+SM	Agriculture, fishing and forestry	14	174000	SE	Health
+SM	Agriculture, fishing and forestry	1	65000	SR	Human rights
+SM	Agriculture, fishing and forestry	11	340000	SS	Human services
+SM	Agriculture, fishing and forestry	6	260568	ST	International relations
+SM	Agriculture, fishing and forestry	1	5000	SD	Philanthropy
+SM	Agriculture, fishing and forestry	1	2500	SP	Religion
+SM	Agriculture, fishing and forestry	1	226537	SF	Science
+SM	Agriculture, fishing and forestry	4	23905	SQ	Sports and recreation
+SA	Arts and culture	6	68250	SM	Agriculture, fishing and forestry
+SA	Arts and culture	52	3051754	SN	Community and economic development
+SA	Arts and culture	239	13479314	SB	Education
+SA	Arts and culture	40	2044591	SC	Environment
+SA	Arts and culture	37	1573524	SE	Health
+SA	Arts and culture	67	5221032	SR	Human rights
+SA	Arts and culture	126	8404984	SS	Human services
+SA	Arts and culture	59	2073028	SH	Information and Communications
+SA	Arts and culture	8	430500	ST	International relations
+SA	Arts and culture	85	25313440	SD	Philanthropy
+SA	Arts and culture	20	1693212	SK	Public affairs
+SA	Arts and culture	1	50000	SJ	Public safety
+SA	Arts and culture	31	653340	SP	Religion
+SA	Arts and culture	92	5498260	SF	Science
+SA	Arts and culture	21	1449965	SG	Social sciences
+SA	Arts and culture	64	3105817	SQ	Sports and recreation
+SN	Community and economic development	27	737430	SM	Agriculture, fishing and forestry
+SN	Community and economic development	52	3051754	SA	Arts and culture
+SN	Community and economic development	117	7488301	SB	Education
+SN	Community and economic development	206	19014262	SC	Environment
+SN	Community and economic development	54	4776879	SE	Health
+SN	Community and economic development	120	10857967	SR	Human rights
+SN	Community and economic development	228	10584036	SS	Human services
+SN	Community and economic development	7	104500	SH	Information and Communications
+SN	Community and economic development	44	2160512	ST	International relations
+SN	Community and economic development	82	6150318	SD	Philanthropy
+SN	Community and economic development	141	15876270	SK	Public affairs
+SN	Community and economic development	1	60000	SJ	Public safety
+SN	Community and economic development	26	911517	SP	Religion
+SN	Community and economic development	18	3360160	SF	Science
+SN	Community and economic development	13	523370	SG	Social sciences
+SN	Community and economic development	15	2388124	SQ	Sports and recreation
+SB	Education	23	420045	SM	Agriculture, fishing and forestry
+SB	Education	239	13479314	SA	Arts and culture
+SB	Education	117	7488301	SN	Community and economic development
+SB	Education	41	4696392	SC	Environment
+SB	Education	214	24212687	SE	Health
+SB	Education	47	3431574	SR	Human rights
+SB	Education	303	22824520	SS	Human services
+SB	Education	110	2946227	SH	Information and Communications
+SB	Education	30	2030820	ST	International relations
+SB	Education	61	10583753	SD	Philanthropy
+SB	Education	55	11761473	SK	Public affairs
+SB	Education	2	403683	SJ	Public safety
+SB	Education	124	11742818	SP	Religion
+SB	Education	130	15319585	SF	Science
+SB	Education	68	2938335	SG	Social sciences
+SB	Education	55	1314979	SQ	Sports and recreation
+SB	Education	1	28529	SZ	Unknown or not classified
+SC	Environment	34	1568135	SM	Agriculture, fishing and forestry
+SC	Environment	40	2044591	SA	Arts and culture
+SC	Environment	206	19014262	SN	Community and economic development
+SC	Environment	41	4696392	SB	Education
+SC	Environment	85	21240941	SE	Health
+SC	Environment	59	5102404	SR	Human rights
+SC	Environment	29	905081	SS	Human services
+SC	Environment	18	1334931	SH	Information and Communications
+SC	Environment	43	4903353	ST	International relations
+SC	Environment	65	3250018	SD	Philanthropy
+SC	Environment	92	16537696	SK	Public affairs
+SC	Environment	1	40000	SJ	Public safety
+SC	Environment	5	341500	SP	Religion
+SC	Environment	116	30593887	SF	Science
+SC	Environment	9	5307000	SG	Social sciences
+SC	Environment	83	3713971	SQ	Sports and recreation
+SE	Health	14	174000	SM	Agriculture, fishing and forestry
+SE	Health	37	1573524	SA	Arts and culture
+SE	Health	54	4776879	SN	Community and economic development
+SE	Health	214	24212687	SB	Education
+SE	Health	85	21240941	SC	Environment
+SE	Health	51	5339052	SR	Human rights
+SE	Health	507	38272519	SS	Human services
+SE	Health	13	585343	SH	Information and Communications
+SE	Health	28	861594	ST	International relations
+SE	Health	45	4017125	SD	Philanthropy
+SE	Health	66	8385945	SK	Public affairs
+SE	Health	1	10000	SJ	Public safety
+SE	Health	18	1939581	SP	Religion
+SE	Health	124	15762984	SF	Science
+SE	Health	18	8706681	SG	Social sciences
+SE	Health	93	2127258	SQ	Sports and recreation
+SR	Human rights	1	65000	SM	Agriculture, fishing and forestry
+SR	Human rights	67	5221032	SA	Arts and culture
+SR	Human rights	120	10857967	SN	Community and economic development
+SR	Human rights	47	3431574	SB	Education
+SR	Human rights	59	5102404	SC	Environment
+SR	Human rights	51	5339052	SE	Health
+SR	Human rights	123	19681246	SS	Human services
+SR	Human rights	17	669645	SH	Information and Communications
+SR	Human rights	242	40242759	ST	International relations
+SR	Human rights	151	43151243	SD	Philanthropy
+SR	Human rights	124	16162269	SK	Public affairs
+SR	Human rights	3	466494	SJ	Public safety
+SR	Human rights	45	3218380	SP	Religion
+SR	Human rights	31	4610753	SF	Science
+SR	Human rights	18	4546408	SG	Social sciences
+SR	Human rights	3	133280	SQ	Sports and recreation
+SS	Human services	11	340000	SM	Agriculture, fishing and forestry
+SS	Human services	126	8404984	SA	Arts and culture
+SS	Human services	228	10584036	SN	Community and economic development
+SS	Human services	303	22824520	SB	Education
+SS	Human services	29	905081	SC	Environment
+SS	Human services	507	38272519	SE	Health
+SS	Human services	123	19681246	SR	Human rights
+SS	Human services	12	635916	SH	Information and Communications
+SS	Human services	37	5299450	ST	International relations
+SS	Human services	141	12920093	SD	Philanthropy
+SS	Human services	69	9985100	SK	Public affairs
+SS	Human services	2	7000	SJ	Public safety
+SS	Human services	50	3679964	SP	Religion
+SS	Human services	17	545150	SF	Science
+SS	Human services	9	2259537	SG	Social sciences
+SS	Human services	68	1646928	SQ	Sports and recreation
+SH	Information and Communications	59	2073028	SA	Arts and culture
+SH	Information and Communications	7	104500	SN	Community and economic development
+SH	Information and Communications	110	2946227	SB	Education
+SH	Information and Communications	18	1334931	SC	Environment
+SH	Information and Communications	13	585343	SE	Health
+SH	Information and Communications	17	669645	SR	Human rights
+SH	Information and Communications	12	635916	SS	Human services
+SH	Information and Communications	6	305000	ST	International relations
+SH	Information and Communications	12	345825	SD	Philanthropy
+SH	Information and Communications	21	931050	SK	Public affairs
+SH	Information and Communications	1	400	SJ	Public safety
+SH	Information and Communications	7	2509629	SP	Religion
+SH	Information and Communications	3	42850	SF	Science
+SH	Information and Communications	3	407109	SG	Social sciences
+SH	Information and Communications	5	85190	SQ	Sports and recreation
+ST	International relations	6	260568	SM	Agriculture, fishing and forestry
+ST	International relations	8	430500	SA	Arts and culture
+ST	International relations	44	2160512	SN	Community and economic development
+ST	International relations	30	2030820	SB	Education
+ST	International relations	43	4903353	SC	Environment
+ST	International relations	28	861594	SE	Health
+ST	International relations	242	40242759	SR	Human rights
+ST	International relations	37	5299450	SS	Human services
+ST	International relations	6	305000	SH	Information and Communications
+ST	International relations	51	5306725	SD	Philanthropy
+ST	International relations	87	22892552	SK	Public affairs
+ST	International relations	26	2578201	SP	Religion
+ST	International relations	18	2755915	SF	Science
+ST	International relations	8	605690	SG	Social sciences
+SD	Philanthropy	1	5000	SM	Agriculture, fishing and forestry
+SD	Philanthropy	85	25313440	SA	Arts and culture
+SD	Philanthropy	82	6150318	SN	Community and economic development
+SD	Philanthropy	61	10583753	SB	Education
+SD	Philanthropy	65	3250018	SC	Environment
+SD	Philanthropy	45	4017125	SE	Health
+SD	Philanthropy	151	43151243	SR	Human rights
+SD	Philanthropy	141	12920093	SS	Human services
+SD	Philanthropy	12	345825	SH	Information and Communications
+SD	Philanthropy	51	5306725	ST	International relations
+SD	Philanthropy	73	12393785	SK	Public affairs
+SD	Philanthropy	20	2868915	SP	Religion
+SD	Philanthropy	22	1846743	SF	Science
+SD	Philanthropy	24	1803868	SG	Social sciences
+SD	Philanthropy	8	120350	SQ	Sports and recreation
+SK	Public affairs	20	1693212	SA	Arts and culture
+SK	Public affairs	141	15876270	SN	Community and economic development
+SK	Public affairs	55	11761473	SB	Education
+SK	Public affairs	92	16537696	SC	Environment
+SK	Public affairs	66	8385945	SE	Health
+SK	Public affairs	124	16162269	SR	Human rights
+SK	Public affairs	69	9985100	SS	Human services
+SK	Public affairs	21	931050	SH	Information and Communications
+SK	Public affairs	87	22892552	ST	International relations
+SK	Public affairs	73	12393785	SD	Philanthropy
+SK	Public affairs	46	27629823	SP	Religion
+SK	Public affairs	26	5334626	SF	Science
+SK	Public affairs	32	9611600	SG	Social sciences
+SK	Public affairs	6	270000	SQ	Sports and recreation
+SJ	Public safety	1	50000	SA	Arts and culture
+SJ	Public safety	1	60000	SN	Community and economic development
+SJ	Public safety	2	403683	SB	Education
+SJ	Public safety	1	40000	SC	Environment
+SJ	Public safety	1	10000	SE	Health
+SJ	Public safety	3	466494	SR	Human rights
+SJ	Public safety	2	7000	SS	Human services
+SJ	Public safety	1	400	SH	Information and Communications
+SJ	Public safety	5	6200	SP	Religion
+SP	Religion	1	2500	SM	Agriculture, fishing and forestry
+SP	Religion	31	653340	SA	Arts and culture
+SP	Religion	26	911517	SN	Community and economic development
+SP	Religion	124	11742818	SB	Education
+SP	Religion	5	341500	SC	Environment
+SP	Religion	18	1939581	SE	Health
+SP	Religion	45	3218380	SR	Human rights
+SP	Religion	50	3679964	SS	Human services
+SP	Religion	7	2509629	SH	Information and Communications
+SP	Religion	26	2578201	ST	International relations
+SP	Religion	20	2868915	SD	Philanthropy
+SP	Religion	46	27629823	SK	Public affairs
+SP	Religion	5	6200	SJ	Public safety
+SP	Religion	121	20393235	SF	Science
+SP	Religion	20	3341287	SG	Social sciences
+SP	Religion	30	417335	SQ	Sports and recreation
+SF	Science	1	226537	SM	Agriculture, fishing and forestry
+SF	Science	92	5498260	SA	Arts and culture
+SF	Science	18	3360160	SN	Community and economic development
+SF	Science	130	15319585	SB	Education
+SF	Science	116	30593887	SC	Environment
+SF	Science	124	15762984	SE	Health
+SF	Science	31	4610753	SR	Human rights
+SF	Science	17	545150	SS	Human services
+SF	Science	3	42850	SH	Information and Communications
+SF	Science	18	2755915	ST	International relations
+SF	Science	22	1846743	SD	Philanthropy
+SF	Science	26	5334626	SK	Public affairs
+SF	Science	121	20393235	SP	Religion
+SF	Science	46	16102146	SG	Social sciences
+SF	Science	6	554494	SQ	Sports and recreation
+SG	Social sciences	21	1449965	SA	Arts and culture
+SG	Social sciences	13	523370	SN	Community and economic development
+SG	Social sciences	68	2938335	SB	Education
+SG	Social sciences	9	5307000	SC	Environment
+SG	Social sciences	18	8706681	SE	Health
+SG	Social sciences	18	4546408	SR	Human rights
+SG	Social sciences	9	2259537	SS	Human services
+SG	Social sciences	3	407109	SH	Information and Communications
+SG	Social sciences	8	605690	ST	International relations
+SG	Social sciences	24	1803868	SD	Philanthropy
+SG	Social sciences	32	9611600	SK	Public affairs
+SG	Social sciences	20	3341287	SP	Religion
+SG	Social sciences	46	16102146	SF	Science
+SQ	Sports and recreation	4	23905	SM	Agriculture, fishing and forestry
+SQ	Sports and recreation	64	3105817	SA	Arts and culture
+SQ	Sports and recreation	15	2388124	SN	Community and economic development
+SQ	Sports and recreation	55	1314979	SB	Education
+SQ	Sports and recreation	83	3713971	SC	Environment
+SQ	Sports and recreation	93	2127258	SE	Health
+SQ	Sports and recreation	3	133280	SR	Human rights
+SQ	Sports and recreation	68	1646928	SS	Human services
+SQ	Sports and recreation	5	85190	SH	Information and Communications
+SQ	Sports and recreation	8	120350	SD	Philanthropy
+SQ	Sports and recreation	6	270000	SK	Public affairs
+SQ	Sports and recreation	30	417335	SP	Religion
+SQ	Sports and recreation	6	554494	SF	Science
+SZ	Unknown or not classified	1	28529	SB	Education
