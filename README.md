@@ -8,4 +8,4 @@ If you would like to follow along with Python notebooks, you can sign up for a f
 
 After you have an account and are logged into Wakari, go to this link and follow the instructions to run the notebooks. This will import the notebooks and supporting data into your Wakari workspace:
 
-<a href="https://wakari.io/sharing/bundle/gmgreen/dgd2016">https://wakari.io/sharing/bundle/gmgreen/dgd2016</a>
+<a href="https://wakari.io/sharing/bundle/gmgreen/dgd2016">https://wakari.io/sharing/bundle/gmgreen/dgd2016</a>   
